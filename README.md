@@ -45,4 +45,4 @@ The analysis focuses on:
 
 1. Ensure you have the required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `kagglehub`.
 2. Run `notebooks/02_cleaning.ipynb` to generate the enriched dataset.
-3. Explore the results in `notebooks/03_eda_visualizations.ipynb`.
+3. Explore the results in `notebooks/03_eda_visualizations.ipynb`
