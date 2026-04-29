@@ -2,7 +2,7 @@
 
 | Member                  | Portfolio Link                                                       |
 |---------------------    |----------------------------------------------------------------------|
-| Member 1                | |
+| Member 1 (Palak)        | https://data-analyst-protfolio.vercel.app/
 | Member 2 (Divya Singh)  | https://divya-3005.github.io/Portfolio/
 | Member 3                | |
 | Member 4 (Arun)         | https://arunjangir8.github.io/DVA-Portfolio/dsv_portfolio.html|
