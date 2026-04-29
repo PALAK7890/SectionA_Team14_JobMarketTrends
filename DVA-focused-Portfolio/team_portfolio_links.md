@@ -7,6 +7,6 @@
 | Member 3 (samarth sangtani) | https://ji-samarth.github.io/samarth-dva/
 | Member 4 (Arun)         | https://arunjangir8.github.io/DVA-Portfolio/dsv_portfolio.html|
 | Member 5 (Sarvesh kumar)| https://sarvesh-dva-portfolio.vercel.app/|
-| Member 6                | |
+| Member 6 (Krishna Dubale) | https://krishnadubale.github.io/Portfolio/
 
 
