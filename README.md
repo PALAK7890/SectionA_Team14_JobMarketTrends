@@ -1,18 +1,23 @@
 # LinkedIn Job Market Trends Analysis
 
-This project implements an end-to-end Python ETL pipeline to analyze job postings, company metrics, and industry trends using the LinkedIn Job Postings dataset.
+This project implements an end-to-end Python ETL and Data Science pipeline to analyze job postings, company metrics, and industry trends using the LinkedIn Job Postings dataset.
 
-## Project Structure
+---
+
+## 📁 Project Structure
 
 ```text
 SectionA_Team14_JobMarketTrends/
 ├── notebooks/
-│   ├── 02_cleaning.ipynb           # Multi-dataset ETL (Ingestion, Merge, Clean, Transform)
-│   └── 03_eda_visualizations.ipynb # Exploratory Analysis & Data Visualization
-├── linkedin_jobs_dashboard_ready.csv # Final production-ready dataset
-├── DVA_CAPSTONE.ipynb              # Legacy experimental notebook
-└── README.md                       # Documentation
-```
+│   ├── 02_cleaning.ipynb              # ETL Pipeline (Ingestion, Merge, Clean, Transform)
+│   ├── 03_eda_visualizations.ipynb    # Exploratory Data Analysis & Visuals
+│   ├── 04_statistical_analysis.ipynb  # T-Tests, ANOVA, & Correlation Analysis
+│   └── 05_final_load_prep.ipynb       # Final formatting for Tableau/Production
+├── Dataset/                           # Raw and intermediate data files
+├── tableau/                           # Dashboard screenshots and workbooks
+├── reports/                           # Final project documentation and PDFs
+├── requirements.txt                   # Python dependencies
+└── README.md                          # Project Overview
 
 ## ETL Pipeline Details (02_cleaning.ipynb)
 
